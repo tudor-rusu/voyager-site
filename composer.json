@@ -1,5 +1,5 @@
 {
-    "name": "monstrex/voyager-site",
+    "name": "tudor-rusu/voyager-site",
     "description": "Voyager Web Site package",
     "license": "MIT",
     "authors": [
@@ -7,13 +7,18 @@
             "name": "Yuriy Ovdeyev",
             "email": "fido6080net@gmail.com",
             "homepage": "http://ss-host.ru"
+        },
+        {
+            "name": "Tudor Rusu",
+            "email": "tudor.rusu@hotmail.com",
+            "homepage": "https://tudor.rusu.tech/"
         }
     ],
     "minimum-stability": "dev",
-    "homepage": "https://github.com/monstrex/voyager-site",
+    "homepage": "https://github.com/tudor-rusu/voyager-site",
     "keywords": ["Laravel", "Voyager"],
     "require": {
-        "monstrex/voyager-extension": "*",
+        "tudor-rusu/voyager-extension": "*",
         "liquid/liquid": "^1.4",
         "webwizo/laravel-shortcodes": "^1.0.20",
         "ext-json": "*"
