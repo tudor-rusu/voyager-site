@@ -28,7 +28,7 @@ Using this package you can rapidly and easily build small and medium-size scale 
 Via Composer
 
 ``` bash
-$ composer require monstrex/voyager-site
+$ composer require tudor-rusu/voyager-site
 ```
 
 Then run install command:
